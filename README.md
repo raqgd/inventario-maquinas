@@ -13,7 +13,6 @@ Proyecto local para administrar información de máquinas, incluyendo nombre, mo
   
 ## 💻 Tecnologías
 - **Backend:** Node.js + Express
-- **Base de datos:** MongoDB (local)
-- **Frontend:** HTML, CSS, JavaScript (opcionalmente React)
-- **Empaquetado como app de escritorio:** Electron (opcional)
-- **Manejo de imágenes:** Multer (Node.js)
+- **Base de datos:** MongoDB
+- **Frontend:** HTML, CSS, JavaScript 
+- **Empaquetado como app de escritorio:** Electron 
